@@ -26,7 +26,7 @@ This project simulates an ATM system where users can securely log in and perform
 
 ---
 
-## ▶️ How to Run
+# ▶️ How to Run
 ```bash
 javac ATM.java
 java ATM
